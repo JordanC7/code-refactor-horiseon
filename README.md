@@ -18,9 +18,9 @@ Email Jordan7Coulter@gmail.com for any problems or issues.
 
 ## Authors
 
-Contributors names and contact info
+Contributors names and contact info:
 
-ex. Jordan Coulter (https://github.com/JordanC7)
+Jordan Coulter (https://github.com/JordanC7)
 
 ## License
 
